@@ -80,6 +80,6 @@
   }
   /* Hide minimal theme's auto-injected GitHub links and footer credits */
   header p.view,
-  footer {
+  footer p + p {
     display: none;
-  }
+  } 
