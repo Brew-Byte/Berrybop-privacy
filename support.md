@@ -21,10 +21,10 @@ settings.
 Drawings stay on the device only. Berrybop does not upload anything to the
 internet.
 
-### Does Berrybop work without Wi-Fi?**
+### Does Berrybop work without Wi-Fi?
 Yes. Berrybop is fully offline. It works on airplane mode.
 
-### Is there an Android version?**
+### Is there an Android version?
 Not at this time.
 
 ## Contact
