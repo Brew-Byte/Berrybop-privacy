@@ -30,13 +30,13 @@ Not at this time.
 Questions about this policy or about Berrybop's privacy practices can be
 posted as a public issue on our GitHub page:
 
-**https://github.com/Brew-Byte/berrybop-site/issues**
+[Open an issue on GitHub](https://github.com/Brew-Byte/berrybop-privacy/issues)
   
 ## Contact
 
 For bug reports, feature requests, or anything else, please open an issue
 on our GitHub page:
 
-**https://github.com/Brew-Byte/berrybop-site/issues**
+[Open an issue on GitHub](https://github.com/Brew-Byte/berrybop-privacy/issues)
 
 We try to reply within 3 business days.
