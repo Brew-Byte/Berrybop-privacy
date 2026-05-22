@@ -5,9 +5,9 @@ layout: default
 
 # Privacy Policy
 
-**Effective date:** May 22, 2026
-**App:** Berrybop (iOS / iPadOS)
-**Developer:** Preetinder Marok
+- **Effective date:** May 22, 2026
+- **App:** Berrybop (iOS / iPadOS)
+- **Developer:** Preetinder Marok
 
 ## Summary
 
