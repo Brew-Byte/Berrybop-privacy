@@ -1,13 +1,13 @@
- # Berrybop — Website
+ # Berrybop — site
   
 Public website for **Berrybop**, a free, offline iPhone and iPad app for
 kids ages 3–5.
 
 ## Pages
 
-- [Privacy Policy](https://brew-byte.github.io/Berrybop-privacy/privacy.html)
-- [Support](https://brew-byte.github.io/Berrybop-privacy/support.html)
-- [Home](https://brew-byte.github.io/Berrybop-privacy/)
+- [Privacy Policy](https://brew-byte.github.io/Berrybop-site/privacy.html)
+- [Support](https://brew-byte.github.io/Berrybop-site/support.html)
+- [Home](https://brew-byte.github.io/Berrybop-site/)
 
 These pages are served via GitHub Pages and are also linked from inside
 the Berrybop app's Parent Zone.
@@ -15,7 +15,7 @@ the Berrybop app's Parent Zone.
 ## Contact
 
 For questions, bug reports, or feature requests, please
-[open an issue](https://github.com/Brew-Byte/berrybop-privacy/issues).
+[open an issue](https://github.com/Brew-Byte/Berrybop-site/issues).
 
   ## Notes
 
