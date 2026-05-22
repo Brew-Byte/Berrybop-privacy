@@ -10,19 +10,21 @@ we'd love to hear from you.
 
 ## Common Questions
 
-**How do I get to the Parent Zone?**
+### How do I get to the Parent Zone?
+  
 Tap the parent icon on the home screen, then solve the math problem on the
 next screen. This gate is there to make sure a grown-up is the one changing
 settings.
 
-**Where are my child's drawings saved?**
+### Where are my child's drawings saved?
+  
 Drawings stay on the device only. Berrybop does not upload anything to the
 internet.
 
-**Does Berrybop work without Wi-Fi?**
+### Does Berrybop work without Wi-Fi?**
 Yes. Berrybop is fully offline. It works on airplane mode.
 
-**Is there an Android version?**
+### Is there an Android version?**
 Not at this time.
 
 ## Contact
