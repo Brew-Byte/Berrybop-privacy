@@ -74,4 +74,4 @@ noted in the app's release notes on the App Store.
 Questions about this policy or about Berrybop's privacy practices can be
 posted as a public issue on our GitHub page:
 
-**https://github.com/Brew-Byte/berrybop-privacy/issues**
+ [Open an issue on GitHub](https://github.com/Brew-Byte/berrybop-privacy/issues)
