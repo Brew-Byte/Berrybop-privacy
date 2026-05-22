@@ -1,0 +1,71 @@
+---
+---
+
+  @import "{{ site.theme }}";
+
+  /* ── Berrybop palette ───────────────────────────────────────────── */
+  :root {
+    --berry-sky-light: #E6F2FA;
+    --berry-sky:       #B5D4F5;
+    --berry-cream:     #FCEDEF;
+    --berry-pink:      #F28094;
+    --berry-pink-deep: #D14766;
+    --berry-hill:      #BFDE96;
+    --berry-sun:       #FAC775;
+    --berry-purple:    #7F77DD;
+    --berry-text:      #2B2B29;
+    --berry-text-mid:  #454540;
+  }
+
+  /* ── Page background + typography ───────────────────────────────── */
+  body {
+    background: linear-gradient(180deg, var(--berry-sky-light) 0%, #FFFFFF 45%);
+    color: var(--berry-text);
+    font-family: -apple-system, BlinkMacSystemFont, "Avenir Next",
+                 "Quicksand", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  .wrapper { max-width: 760px; }
+
+  /* ── Header (site title) ────────────────────────────────────────── */
+  header h1, header h1 a {
+    color: var(--berry-pink-deep) !important;
+    font-weight: 800;
+    letter-spacing: -0.5px;
+  }
+  header p { color: var(--berry-text-mid); }
+
+  /* ── Section headings ───────────────────────────────────────────── */
+  section h1, section h2, section h3 {
+    color: var(--berry-pink-deep);
+    font-weight: 700;
+  }
+  
+  /* ── Links ──────────────────────────────────────────────────────── */
+  a {
+    color: var(--berry-pink-deep);
+    text-decoration: underline;
+    text-underline-offset: 3px;
+    text-decoration-thickness: 1.5px;
+  }
+  a:hover { color: var(--berry-purple); }
+
+  /* ── Misc ───────────────────────────────────────────────────────── */
+  strong { color: var(--berry-text); }
+
+  hr {
+    border: 0;
+    height: 2px;
+    background: var(--berry-hill);
+    opacity: 0.6;
+    margin: 2em 0;
+  }
+
+  code {
+    background: var(--berry-cream);
+    color: var(--berry-pink-deep);
+    padding: 0.1em 0.35em;
+    border-radius: 4px;
+    font-size: 0.92em;
+  }
