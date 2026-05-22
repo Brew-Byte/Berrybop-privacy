@@ -32,7 +32,7 @@ Not at this time.
 For bug reports, feature requests, or anything else, please open an issue
 on our GitHub page:
 
-[Open an issue on GitHub](https://github.com/Brew-Byte/berrybop-privacy/issues)
+[Open an issue on GitHub](https://github.com/Brew-Byte/Berrybop-site/issues)
 
 We try to reply within 3 business days.
 
