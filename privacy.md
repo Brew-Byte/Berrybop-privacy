@@ -7,7 +7,7 @@ layout: default
 
 - **Effective date:** May 22, 2026
 - **App:** Berrybop (iOS / iPadOS)
-- **Developer:** Preetinder Marok
+- **Made by:** Brew-Byte
 
 ## Summary
 
